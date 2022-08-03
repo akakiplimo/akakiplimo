@@ -1,5 +1,6 @@
-[![alt text](https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif "Logo")](https://github.com/akakiplimo)
-Hi! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi 👋
+<img src="https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif" alt-text="Logo" width="27px">
+
+Hi 👋! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi
 
 <!--
 **akakiplimo/akakiplimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
