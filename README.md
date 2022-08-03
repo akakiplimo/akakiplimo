@@ -1,6 +1,6 @@
-<img src="https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif" alt-text="Logo" width="27px">
+<img src="https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif" alt-text="Logo" width="50px">
 
-Hi 👋! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi
+Hi! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi
 
 <!--
 **akakiplimo/akakiplimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
