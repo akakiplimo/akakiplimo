@@ -1,4 +1,6 @@
+<a href="https://github.com/akakiplimo/">
 <img src="https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif" alt-text="Logo" width="100px">
+</a>
 
 Hi! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi
 
