@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! I'm Adrian Abraham Kiplimo, a Frontend Software Engineer based in Nairobi 👋
 
 <!--
 **akakiplimo/akakiplimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
