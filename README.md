@@ -2,7 +2,7 @@
 - 👋  I’m a Software Engineer
 - 🌍  Based in Nairobi, Kenya
 - 🚀  I love to program, learn and build things
-- 🌱  I am interested in Technology, Sports, History & Culture
+- 🌱  I am interested in Technology, Sports, History, Music & Culture
 - 💻  I’m looking to collaborate on OpenSource Projects
 - 📫  Feel free to reach me akakiplimo@gmail.com
 - 🤓  You can read more about me at [LinkedIn](https://www.linkedin.com/in/adrian-kiplimo-55947a132/)
