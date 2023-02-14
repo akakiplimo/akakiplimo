@@ -1,8 +1,22 @@
-<a href="https://github.com/akakiplimo/">
-<img src="https://github.com/akakiplimo/akakiplimo/blob/main/animated-monitor-and-screen.gif" alt-text="Logo" width="100px">
-</a>
+- #  Hi there 👋
+- 👋  I’m a Software Engineer
+- 🌍  Based in Nairobi, Kenya
+- 🚀  I love to program, I love to learn and to build things
+- 🌱  I am interested in Technology, Sports, History & Culture
+- 💻  I’m looking to collaborate on OpenSource Projects
+- 📫  Feel free to reach me akakiplimo@gmail.com
+- 🤓  You can read more about me at [LinkedIn](https://www.linkedin.com/in/adrian-kiplimo-55947a132/)
 
-Hi! I'm Adrian Abraham Kiplimo, a Software Engineer based in Nairobi, Kenya.
+Git Status
+------
+
+![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=akakiplimo&count_private=true&show_icons=true&theme=tokyonight)
+
+
+Skills & Tools
+-------
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akakiplimo&langs_count=7&layout=compact)
 
 <!--
 **akakiplimo/akakiplimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
