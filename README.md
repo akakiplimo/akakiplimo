@@ -1,4 +1,4 @@
-- #  Hi there <img src="https://github.com/akakiplimo/akakiplimo/blob/main/responsive_screen.gif" alt-text="👋🏾" height="auto" width="50px" style="border-radius:25px">
+- #  Hello there... <img src="https://github.com/akakiplimo/akakiplimo/blob/main/responsive_screen.gif" alt-text="👋🏾" height="auto" width="50px" style="border-radius:20px">
 - 👋  I’m a Software Engineer
 - 🌍  Based in Nairobi, Kenya
 - 🚀  I love to program, learn and build things
