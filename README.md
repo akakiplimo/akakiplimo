@@ -19,6 +19,7 @@ Skills & Tools
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akakiplimo&langs_count=7&layout=compact)
 
+<!--
 
 Wakatime Stats
 -------
@@ -27,6 +28,7 @@ Wakatime Stats
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abracodeabra)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
 
 <!--
 **akakiplimo/akakiplimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
