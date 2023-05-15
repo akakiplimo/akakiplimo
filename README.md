@@ -8,8 +8,9 @@
   - 📫  Feel free to reach me akakiplimo@gmail.com
   - 📖  You can read more about me at [LinkedIn](https://www.linkedin.com/in/adrian-kiplimo-55947a132/)
 
-Git Status
+Git Stats
 ------
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akakiplimo&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
 ![Oscar's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akakiplimo&count_private=true&show_icons=true&theme=tokyonight)
 
