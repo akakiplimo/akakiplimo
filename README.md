@@ -8,6 +8,10 @@
   - 📫  Feel free to reach me akakiplimo@gmail.com
   - 📖  You can read more about me at [LinkedIn](https://www.linkedin.com/in/adrian-kiplimo-55947a132/)
 
+Tracked Code Time
+------
+[![wakatime](https://wakatime.com/badge/user/1104554e-140e-4264-93bb-2642f42d09cf.svg)](https://wakatime.com/@1104554e-140e-4264-93bb-2642f42d09cf)
+
 Git Stats
 ------
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akakiplimo&theme=light&background=FFFFFF)](https://git.io/streak-stats)
