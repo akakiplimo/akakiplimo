@@ -1,8 +1,9 @@
 #  Hello there... <img src="https://github.com/akakiplimo/akakiplimo/blob/main/responsive_screen.gif" alt-text="👋🏾" height="auto" width="50px" style="border-radius:5px">
-  - 🤓  I’m a Software Engineer
+  - 🤓  I’m a Frontend Software Engineer
   - 🌍  Based in Nairobi, Kenya
   - 📈  I love to program, learn and build things
   - 🌱  I am interested in Technology, Sports, History, Music & Culture
+  - 📚  I am currently learning Three.js for creating 3D websites
   - 💬  Ask me about JavaScript and Web Development
   - 💻  I’m looking to collaborate on OpenSource Projects
   - 📫  Feel free to reach me akakiplimo@gmail.com
