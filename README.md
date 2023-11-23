@@ -1,5 +1,5 @@
 #  Hello there... <img src="https://github.com/akakiplimo/akakiplimo/blob/main/responsive_screen.gif" alt-text="👋🏾" height="auto" width="50px" style="border-radius:5px">
-  - 🤓  I’m a Frontend Software Engineer
+  - 🤓  I’m a Software Engineer
   - 🌍  Based in Nairobi, Kenya
   - 📈  I love to program, learn and build things
   - 🌱  I am interested in Technology, Sports, History, Music & Culture
