@@ -23,7 +23,7 @@ Git Stats
 Skills & Tools
 -------
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akakiplimo&hide=javascript,css,scss,shaderlab,html&layout=compact)
+![Top Langs]([https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akakiplimo&hide=javascript,css,scss,shaderlab,html&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=akakiplimo&hide=javascript,css,scss,shaderlab,html&theme=tokyonight))
 
 <!--
 
